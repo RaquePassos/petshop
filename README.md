@@ -9,6 +9,6 @@
 
 ## 📌Detalhes
 ### Cabeçalho fixo responsivo
-## Formulário de login e efeito de menu de alternância da barra de navegação usando javascript.
+### Formulário de login e efeito de menu de alternância da barra de navegação usando javascript.
 ### Sessões reponsivas
 
